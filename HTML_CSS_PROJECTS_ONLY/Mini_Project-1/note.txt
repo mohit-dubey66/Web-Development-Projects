@@ -1,0 +1,7 @@
+This is a mini project built using HTML and CSS only.
+
+You need to have basic knowledge of HTML and CSS like:
+HTML: DIV
+CSS: Position, Flex, Text Decoration, etc.
+
+It's a simple and meaningful project to understand the concepts of DIV and POSITION, FLEX and TEXT DECORATION.

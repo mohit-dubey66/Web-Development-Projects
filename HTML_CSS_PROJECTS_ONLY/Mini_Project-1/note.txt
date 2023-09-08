@@ -5,3 +5,8 @@ HTML: DIV
 CSS: Position, Flex, Text Decoration, etc.
 
 It's a simple and meaningful project to understand the concepts of DIV and POSITION, FLEX and TEXT DECORATION.
+
+
+
+==========================================================================
+Deployed LINK: https://web-dev-projects-mini-1.netlify.app/
